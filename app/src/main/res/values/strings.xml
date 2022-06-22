@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bosta_Task</string>
+    <string name="profile_screen">Profile Screen</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="album_details">Album Details</string>
+    <string name="search">Enter photo title</string>
+    <string name="no_results_found">No result found</string>
+    <string name="photo_zoom">Photo Zoom</string>
+    <string name="share">Share</string>
+</resources>
